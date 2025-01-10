@@ -1,11 +1,12 @@
-👋 Hi, I’m Shubham Singh
-👀 I’m passionate about web development and creating user-centric, modern web applications.
-🌱 I’m currently diving into the MERN stack (MongoDB, Express, React, Node.js) and aspire to explore Web3 technologies soon.
-💞️ I’m open to collaborating on frontend and full-stack web development projects to create impactful and scalable solutions.
-📫 How to reach me:
-Email: singhshubham620278@gmail.com
-LinkedIn: https://www.linkedin.com/in/shubham-singh-35153122b/
-Portfolio: coming soon...
+### 👋 Hi, I’m **Shubham Singh**
+
+- 👀 I’m passionate about **web development** and creating user-centric, modern web applications.  
+- 🌱 I’m currently diving into the **MERN stack** (MongoDB, Express, React, Node.js) and aspire to explore **Web3 technologies** soon.  
+- 💞️ I’m open to collaborating on **frontend and full-stack web development projects** to create impactful and scalable solutions.  
+- 📫 **How to reach me:**  
+  - Email: [singhshubham620278@gmail.com](mailto:singhshubham620278@gmail.com)  
+  - LinkedIn: [Shubham Singh on LinkedIn](https://www.linkedin.com/in/shubham-singh-35153122b/)  
+  - Portfolio: Coming soon...
 
 
 <!---
