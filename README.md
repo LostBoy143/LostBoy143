@@ -6,7 +6,7 @@
 - 📫 **How to reach me:**  
   - Email: [singhshubham620278@gmail.com](mailto:singhshubham620278@gmail.com)  
   - LinkedIn: [Shubham Singh on LinkedIn](https://www.linkedin.com/in/shubham-singh-35153122b/)  
-  - Portfolio: Coming soon...
+  - Portfolio: www.alphashubham.xyz
 
 
 <!---
