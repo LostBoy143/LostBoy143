@@ -44,7 +44,7 @@ I’m a passionate and self-driven web developer focused on crafting modern, int
 
 - 📧 Email: [singhshubham620278@gmail.com](mailto:singhshubham620278@gmail.com)
 - 💼 LinkedIn: [Shubham Singh](https://www.linkedin.com/in/shubham-singh-35153122b/)
-- 🌐 Portfolio: [www.alphashubham.xyz](http://www.alphashubham.xyz)
+- 🌐 My Portfolio: [www.alphashubham.xyz](http://www.alphashubham.xyz)
 
 ---
 
