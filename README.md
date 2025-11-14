@@ -1,8 +1,8 @@
 ## 👋 Hi there, I’m **Shubham Singh**
 
-### 💻 Web Developer | Tech Enthusiast | Lifelong Learner
+### 💻 Software Developer | Tech Enthusiast | Lifelong Learner
 
-I’m a passionate and self-driven web developer focused on crafting modern, intuitive, and performance-driven web applications. I love turning ideas into interactive digital experiences, and I’m currently on a mission to master the MERN stack while diving into the world of AI.
+I’m a passionate and self-driven software developer focused on crafting modern, intuitive, and performance-driven web applications. I love turning ideas into interactive digital experiences, and I’m currently on a mission to master the MERN stack while diving into the world of AI.
 
 ---
 
